@@ -4,3 +4,10 @@ https://www.youtube.com/watch?v=4Nv61uRCIls
 
 Asp.Net MVC Publicar proyecto en IIS - https
 https://www.youtube.com/watch?v=kZ48nkIr4Yo
+
+Como subir un Web Services soap ASP.NET C# al servidor IIS (Internet Information Services)
+https://www.youtube.com/watch?v=ftuS8FYDJRw
+
+---- este es el que necesito para instalar y configurar----
+Como publicar una Aplicacion Web + SQL Server (Asp.Net)
+https://www.youtube.com/watch?v=oVFI4KiBPys
