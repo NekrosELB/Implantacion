@@ -11,3 +11,15 @@ https://www.youtube.com/watch?v=ftuS8FYDJRw
 ---- este es el que necesito para instalar y configurar----
 Como publicar una Aplicacion Web + SQL Server (Asp.Net)
 https://www.youtube.com/watch?v=oVFI4KiBPys
+
+
+El de hoy en la mañana 
+Instalar y configurar un sitio web con IIS Windows Server 2012
+https://www.youtube.com/watch?v=gvKiC3GAZHo
+
+
+Este es el que vimos de la instalación.
+
+Subir/Publicar Web Service VS en IIS (Internet Information Services) Tutorial
+https://www.youtube.com/watch?v=1MpMJ4v7FqA  
+
